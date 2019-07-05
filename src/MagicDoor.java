@@ -6,10 +6,6 @@ public class MagicDoor {
         for (String s: playersArr) {
             System.out.println(s);
         }
-
         return playersArr;
-
     }
-
-
 }
